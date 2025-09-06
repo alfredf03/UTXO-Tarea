@@ -1,0 +1,20 @@
+# Lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Node
+node_modules
+
+# IDEs
+.vscode
+
+# AIs
+.claude
+
+# Solution
+src/solution/*
+
+# Builds
+/dist
